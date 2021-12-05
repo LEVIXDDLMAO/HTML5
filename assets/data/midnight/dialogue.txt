@@ -1,0 +1,23 @@
+[178[ [179[ [223[ [216[ |DistractionDance| *50* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:henryangry: !fear! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Uff...
+:henryangry: !worried! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Man I can't believe the battle lasted so long for it to be midnight.
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      bap bop bip skap.
+:henry: !fear! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     You don't have other people to rap with or what.
+:gf: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      In fact we already rap with my parents, spooky boys, a Russian with a nun, gods...
+:henryangry: !surprised! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     (Gf : blah blah blah blah blah blah blah blah blah blah blah blah )
+:henryangry: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     (Gf : blah blah blah blah blah blah blah blah blah blah blah blah )
+:henryangry: !surprised! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     (Gf : blah blah blah blah blah blah blah blah blah blah blah blah )
+:gf: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      .......furrys, etc
+:gf: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      So, we move on to the next song?
+:gf: !bruh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...
+:henryangry: !sweating! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     ZZZZZZZZZZZZ...
+:gf: !angry! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.02; |false| #classic_loud# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      HENRY?
+:henryangry: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic_loud# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     AOIJSDIJMKFJMKLDSFJMLSKDMFLSL-ÑASAD
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cmc.png">
+<SubTexture name="cmc down0000" x="0" y="0" width="339" height="662" frameX="0" frameY="0" frameWidth="339" frameHeight="662" />
+<SubTexture name="cmc down0001" x="339" y="0" width="339" height="662" frameX="0" frameY="0" frameWidth="339" frameHeight="662" />
+<SubTexture name="cmc down0002" x="678" y="0" width="339" height="662" frameX="0" frameY="0" frameWidth="339" frameHeight="662" />
+<SubTexture name="cmc idle0000" x="0" y="662" width="469" height="892" frameX="0" frameY="0" frameWidth="469" frameHeight="892" />
+<SubTexture name="cmc idle0001" x="469" y="662" width="469" height="892" frameX="0" frameY="0" frameWidth="469" frameHeight="892" />
+<SubTexture name="cmc idle0002" x="938" y="662" width="469" height="892" frameX="0" frameY="0" frameWidth="469" frameHeight="892" />
+<SubTexture name="cmc left0000" x="0" y="1554" width="474" height="772" frameX="0" frameY="0" frameWidth="474" frameHeight="772" />
+<SubTexture name="cmc left0001" x="474" y="1554" width="474" height="772" frameX="0" frameY="0" frameWidth="474" frameHeight="772" />
+<SubTexture name="cmc left0002" x="948" y="1554" width="474" height="772" frameX="0" frameY="0" frameWidth="474" frameHeight="772" />
+<SubTexture name="cmc right0000" x="0" y="2326" width="439" height="797" frameX="0" frameY="0" frameWidth="439" frameHeight="797" />
+<SubTexture name="cmc right0001" x="439" y="2326" width="439" height="797" frameX="0" frameY="0" frameWidth="439" frameHeight="797" />
+<SubTexture name="cmc right0002" x="878" y="2326" width="439" height="797" frameX="0" frameY="0" frameWidth="439" frameHeight="797" />
+<SubTexture name="cmc up0000" x="0" y="3123" width="459" height="774" frameX="0" frameY="0" frameWidth="459" frameHeight="774" />
+<SubTexture name="cmc up0001" x="459" y="3123" width="459" height="774" frameX="0" frameY="0" frameWidth="459" frameHeight="774" />
+<SubTexture name="cmc up0002" x="918" y="3123" width="459" height="774" frameX="0" frameY="0" frameWidth="459" frameHeight="774" />
+</TextureAtlas>

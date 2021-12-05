@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dji.png"><SubTexture name="dji down0000" x="0" y="0" width="456" height="778" frameX="0" frameY="0" frameWidth="456" frameHeight="778" />
+<SubTexture name="dji idle0000" x="456" y="0" width="416" height="892" frameX="0" frameY="0" frameWidth="416" frameHeight="892" />
+<SubTexture name="dji left0000" x="0" y="892" width="392" height="848" frameX="0" frameY="0" frameWidth="392" frameHeight="848" />
+<SubTexture name="dji right0000" x="392" y="892" width="388" height="848" frameX="0" frameY="0" frameWidth="388" frameHeight="848" />
+<SubTexture name="dji up0000" x="0" y="1740" width="286" height="800" frameX="0" frameY="0" frameWidth="286" frameHeight="800" />
+</TextureAtlas>

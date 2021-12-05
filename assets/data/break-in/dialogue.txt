@@ -1,0 +1,40 @@
+[178[ [179[ [223[ [216[ |DistractionDance| *50* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:henry: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...
+:henryangry: !bruh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      hmmm
+:henry: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      * Choose between *
+:henry: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     * Tunnel, explosion, lazer drill...*
+:henryangry: !surprised! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...
+:henry: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     * Wreckin Ball, teleporter or...*
+:henry: !bruh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.2; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     * Funkin? *
+:bf: !default! [Funkin Segoe UI[ ]64] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic_loud# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      beep!
+:henry: !crying! [Funkin Segoe UI[ ]64] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic_loud# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      WOAH!
+:bf: !bruh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Beep boop bska boop
+:henry: !vomit! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~   Man excuse me, you took me by surprise.
+:bf: !bruh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Beep.
+:henry: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ?
+:gf: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Hello I'm girlfriend
+:gf: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      And he is Boyfriend
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Bep.
+:henry: !surprised! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...
+:henry: !fear! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      (Why he talks in that strange language?)
+:gf: !laugh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Because he likes to talk on beeps and boops!
+:henry: !fear! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      a
+:henry: !worried! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      wait a minut-
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Beep ba boooop.
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Ska be bop, a boooooop.
+:gf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      He comes here for a rap battle.
+:gf: !sweating! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      could you accept?
+:henryangry: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     * processing... *
+:henry: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     Wait, what?
+:henry: !fear! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Oh.
+:henry: !fear! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      If I win, will they stop interrupting me?
+:gf: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Yeah.
+:henry: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...
+:henry: !smile! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      .
+:henry: !laugh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Prepare to be blue balled
+
+
+
+
+
+

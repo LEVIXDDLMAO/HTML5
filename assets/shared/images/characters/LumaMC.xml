@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LumaMC.png">
+<SubTexture name="LumaMC down0000" x="0" y="0" width="582" height="752" frameX="0" frameY="0" frameWidth="582" frameHeight="752" />
+<SubTexture name="LumaMC idle0000" x="582" y="0" width="458" height="756" frameX="0" frameY="0" frameWidth="458" frameHeight="756" />
+<SubTexture name="LumaMC left0000" x="0" y="756" width="514" height="770" frameX="0" frameY="0" frameWidth="514" frameHeight="770" />
+<SubTexture name="LumaMC right0000" x="514" y="756" width="654" height="894" frameX="0" frameY="0" frameWidth="654" frameHeight="894" />
+<SubTexture name="LumaMC up0000" x="0" y="1650" width="488" height="822" frameX="0" frameY="0" frameWidth="488" frameHeight="822" />
+</TextureAtlas>
